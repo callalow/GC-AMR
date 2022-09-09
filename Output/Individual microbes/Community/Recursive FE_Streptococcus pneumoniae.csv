@@ -1,0 +1,784 @@
+Features,Ranking
+Penicillin V_site9,1
+Doxycycline _site4,2
+Ethambutol_site2,3
+Oxytetracycline_site3,4
+Nalidixic acid_site8,5
+Rifabutin_site3,6
+Flumequine_site3,7
+Desethylene ciprofloxacin_site2,8
+N-desmethyl clarithromycin _site2,9
+N-demethyl erythromycin_site1,10
+Bedaquiline_site7,11
+Lamivudine_site9,12
+Hydroxy-metronidazole _site6,13
+Amoxicillin_site6,14
+Chloramphenicol_site2,15
+Flumequine_site2,16
+N-demethyl erythromycin_site7,17
+25-desacetyl rifampicin _site6,18
+Emtricitabine_site5,19
+Lamivudine_site2,20
+Chloramphenicol_site6,21
+25-O-desacetyl rifabutin _site9,22
+Lamivudine_site8,23
+Imipenem_site8,24
+Sulfadiazine_site7,25
+Rifampicin_site3,26
+N-desmethyl clarithromycin _site6,27
+Acetyl-isoniazid _site1,28
+Lomefloxacin_site1,29
+Bedaquiline_site3,30
+Azithromycin_site6,31
+4-hydroxy-trimethoprim _site3,32
+Streptomycin A_site9,33
+Ciprofloxacin_site6,34
+Hydroxy-norfloxacin _site8,35
+Ampicillin_site5,36
+Doxycycline _site9,37
+Doxycycline _site5,38
+Emtricitabine_site2,39
+Penicillin V_site1,40
+Acetyl-isoniazid _site9,41
+25-O-desacetyl rifabutin _site2,42
+Emtricitabine_site1,43
+Deacetyl-ketoconazole _site6,44
+Sulfamethoxazole_site6,45
+Ciprofloxacin_site1,46
+Clindamycin_site7,47
+N-demethyl erythromycin_site6,48
+Prulifloxacin_site5,49
+Danofloxacin_site3,50
+Rifabutin_site5,51
+Oxytetracycline_site8,52
+Bedaquiline_site5,53
+Azithromycin_site2,54
+N-demethyl erythromycin_site5,55
+Ofloxacin (Levofloxacin)_site8,56
+Ketoconazole_site7,57
+Trimethoprim_site2,58
+Rifampicin_site9,59
+Ofloxacin N-oxide_site6,60
+Acetyl-isoniazid _site8,61
+Streptomycin A_site8,62
+25-O-desacetyl rifabutin _site3,63
+4-hydroxy-trimethoprim _site9,64
+Penicillin G_site3,65
+4-hydroxy-trimethoprim _site6,66
+Prulifloxacin_site1,67
+Amoxicilloic acid_site2,68
+Imipenem_site9,69
+Meropenem_site2,70
+Flucloxacillin_site6,71
+Meropenem_site5,72
+Metronidazole_site1,73
+Ceftiofur_site4,74
+Amoxicilloic acid_site3,75
+Ceftiofur_site1,76
+Penicilloic G acid_site2,77
+Imipenem_site2,78
+N-demethyl erythromycin_site4,79
+4-hydroxy-trimethoprim _site2,80
+4-hydroxy-trimethoprim _site5,81
+Lamivudine_site4,82
+4-hydroxy-trimethoprim _site1,83
+Enrofloxacin_site3,84
+Capreomycin IA_site7,85
+Isoniazid_site5,86
+Sulfasalazine_site1,87
+Kanamycin A_site7,88
+Norfloxacin_site2,89
+N-desmethyl clindamycin _site9,90
+Hydroxy-norfloxacin _site9,91
+Enrofloxacin_site4,92
+Ulifloxacin_site1,93
+Acetyl-isoniazid _site5,94
+Ethambutol_site1,95
+Ampicillin_site3,96
+Ciprofloxacin_site4,97
+5-Hydroxy-pyrazinoic acid _site7,98
+Sulfapyridine_site9,99
+Bedaquiline_site9,100
+Enrofloxacin_site9,101
+Deacetyl-ketoconazole _site5,102
+Erythromycin_site9,103
+Gentamycin C2 C2a C2b_site7,104
+Isonicotinic acid_site8,105
+Kanamycin A_site3,106
+Oxytetracycline_site2,107
+Ethambutol_site3,108
+Sulfasalazine_site5,109
+Delamanid_site2,110
+Ethambutol_site4,111
+25-desacetyl rifampicin _site5,112
+Azithromycin_site7,113
+Capreomycin IA_site6,114
+Norfloxacin_site6,115
+Ethambutol_site5,116
+Desmethyl-ofloxacin _site8,117
+Flucloxacillin_site4,118
+N-desmethyl clindamycin _site6,119
+Bedaquiline_site2,120
+Aztreonam_site1,121
+25-desacetyl rifampicin _site4,122
+Nadifloxacin_site6,123
+Penicillin V_site3,124
+Metronidazole_site5,125
+Rifampicin_site6,126
+Nitrofurantoin_site8,127
+Delamanid_site4,128
+25-desacetyl rifampicin _site7,129
+Ofloxacin N-oxide_site5,130
+Pyrazinamide_site5,131
+Sulfadiazine_site8,132
+Nitrofurantoin_site2,133
+Isoniazid_site6,134
+Ofloxacin (Levofloxacin)_site6,135
+Delamanid_site6,136
+Sulfapyridine_site1,137
+Sulfasalazine_site6,138
+Gentamycin C1a_site3,139
+Oxytetracycline_site4,140
+Besifloxacin_site7,141
+Thalidomide_site6,142
+Gentamycin C2 C2a C2b_site2,143
+Sulfapyridine_site3,144
+Streptomycin A_site4,145
+Doxycycline _site6,146
+Sulfadiazine_site9,147
+Bedaquiline_site6,148
+Doxycycline _site8,149
+Amoxicillin_site9,150
+Ceftiofur_site2,151
+Clindamycin_site9,152
+Penicillin G_site2,153
+Tetracycline_site3,154
+Nalidixic acid_site4,155
+"1-(2-nitrobenzylidenamino)-2,4-imidazolidinedione_site3",156
+Isoniazid_site7,157
+Besifloxacin_site9,158
+Capreomycin IA_site9,159
+Tetracycline_site6,160
+Ulifloxacin_site5,161
+Ofloxacin (Levofloxacin)_site3,162
+Amoxicillin_site2,163
+Trimethoprim_site1,164
+Sulfasalazine_site3,165
+Rifampicin_site2,166
+Lamivudine_site6,167
+Gentamycin C2 C2a C2b_site4,168
+Rifampicin_site4,169
+Isonicotinic acid_site1,170
+"1-(2-nitrobenzylidenamino)-2,4-imidazolidinedione_site1",171
+Norfloxacin_site4,172
+Linezolid_site1,173
+Sulfapyridine_site4,174
+Moxifloxacin_site8,175
+Sulfasalazine_site9,176
+Metronidazole_site6,177
+Streptomycin A_site7,178
+Flumequine_site4,179
+Acetyl-isoniazid _site6,180
+Enrofloxacin_site7,181
+Ofloxacin N-oxide_site8,182
+Lamivudine_site7,183
+Kanamycin A_site6,184
+Lomefloxacin_site4,185
+Hydroxy-norfloxacin _site6,186
+Hydroxy-metronidazole _site5,187
+Ceftriaxone_site9,188
+N-demethyl erythromycin_site3,189
+N-acetyl sulfamethoxazole _site3,190
+Moxifloxacin_site7,191
+Clindamycin_site4,192
+N-acetyl sulfapyridine _site3,193
+Sulfamethoxazole_site7,194
+Isoniazid_site1,195
+Ofloxacin N-oxide_site7,196
+Sarafloxacin_site3,197
+Desmethyl-ofloxacin _site2,198
+Sulfapyridine_site7,199
+D-cycloserine_site4,200
+N-desmethyl clindamycin _site5,201
+Ethambutol_site6,202
+Clarithromycin_site4,203
+Cefixime_site2,204
+D-cycloserine_site5,205
+Amoxicillin_site5,206
+Sulfasalazine_site2,207
+D-cycloserine_site9,208
+N-acetyl sulfapyridine _site8,209
+Danofloxacin_site7,210
+Besifloxacin_site6,211
+Azithromycin_site3,212
+Ceftriaxone_site5,213
+Aztreonam_site3,214
+Ofloxacin N-oxide_site9,215
+Capreomycin IB_site9,216
+N-desmethyl azithromycin _site3,217
+Isoniazid_site9,218
+Nitrofurantoin_site5,219
+Amoxicillin_site7,220
+Desmethyl-ofloxacin _site4,221
+Ulifloxacin_site7,222
+Metronidazole_site7,223
+Flucloxacillin_site9,224
+Lomefloxacin_site2,225
+Gentamycin C1_site7,226
+Hydroxy-norfloxacin _site1,227
+Chloramphenicol_site4,228
+Tetracycline_site8,229
+Lomefloxacin_site9,230
+Ciprofloxacin_site7,231
+Oxytetracycline_site6,232
+N-acetyl sulfapyridine _site4,233
+Clarithromycin_site6,234
+Bedaquiline_site4,235
+Hydroxy-norfloxacin _site5,236
+N-acetyl sulfadiazine _site3,237
+Flucloxacillin_site5,238
+Sulfamethoxazole_site4,239
+Ofloxacin N-oxide_site2,240
+Sulfapyridine_site8,241
+Hydroxy-metronidazole _site7,242
+Gentamycin C2 C2a C2b_site3,243
+N-demethyl erythromycin_site2,244
+Tetracycline_site2,245
+Sulfasalazine_site4,246
+Ceftiofur_site7,247
+Sulfamethoxazole_site9,248
+Aztreonam_site9,249
+Kanamycin A_site4,250
+Aztreonam_site4,251
+Deacetyl-ketoconazole _site1,252
+Azithromycin_site8,253
+Imipenem_site6,254
+Florfenicol_site9,255
+Ofloxacin (Levofloxacin)_site4,256
+Amoxicilloic acid_site7,257
+Prulifloxacin_site9,258
+D-cycloserine_site3,259
+Flucloxacillin_site3,260
+5-Hydroxy-pyrazinoic acid _site9,261
+25-desacetyl rifampicin _site3,262
+Sulfapyridine_site2,263
+Penicillin V_site4,264
+Delamanid_site8,265
+Streptomycin A_site2,266
+Amoxicilloic acid_site4,267
+Imipenem_site4,268
+Emtricitabine_site7,269
+Hydroxy-norfloxacin _site2,270
+Nitrofurantoin_site3,271
+Penicillin G_site5,272
+Ofloxacin N-oxide_site4,273
+Desethylene ciprofloxacin_site8,274
+Thalidomide_site7,275
+Gentamycin C1a_site7,276
+Lomefloxacin_site8,277
+Thalidomide_site9,278
+Chloramphenicol_site5,279
+Ofloxacin N-oxide_site3,280
+Emtricitabine_site3,281
+Amoxicillin_site4,282
+Sulfamethoxazole_site3,283
+Penicillin V_site7,284
+Ceftriaxone_site6,285
+Desethylene ciprofloxacin_site6,286
+N-acetyl sulfapyridine _site5,287
+Ampicillin_site6,288
+Ofloxacin (Levofloxacin)_site1,289
+Ketoconazole_site9,290
+Hydroxy-norfloxacin _site7,291
+Flumequine_site6,292
+N-acetyl sulfamethoxazole _site7,293
+Norfloxacin_site9,294
+Ciprofloxacin_site5,295
+Penicillin G_site4,296
+25-O-desacetyl rifabutin _site4,297
+Ceftiofur_site3,298
+N-acetyl sulfamethoxazole _site5,299
+N-desmethyl azithromycin _site1,300
+N-desmethyl azithromycin _site9,301
+Rifampicin_site7,302
+Sarafloxacin_site9,303
+Rifampicin_site5,304
+Flucloxacillin_site2,305
+4-hydroxy-trimethoprim _site4,306
+Acetyl-isoniazid _site3,307
+Gatifloxacin_site5,308
+Sulfamethoxazole_site2,309
+Florfenicol_site2,310
+Ceftiofur_site6,311
+Clarithromycin_site9,312
+Hydroxy-metronidazole _site8,313
+Thalidomide_site5,314
+Sulfadiazine_site5,315
+Cefalexin_site9,316
+25-O-desacetyl rifabutin _site8,317
+Isoniazid_site4,318
+Norfloxacin_site1,319
+Bedaquiline_site1,320
+Cefalexin_site7,321
+Enrofloxacin_site5,322
+Capreomycin IB_site4,323
+Lomefloxacin_site5,324
+N-desmethyl clindamycin _site8,325
+N-desmethyl azithromycin _site4,326
+25-O-desacetyl rifabutin _site1,327
+Florfenicol_site4,328
+Sulfasalazine_site8,329
+Nadifloxacin_site5,330
+Azithromycin_site1,331
+Penicilloic G acid_site6,332
+Capreomycin IA_site8,333
+Linezolid_site8,334
+Sulfamethoxazole_site8,335
+Clindamycin_site1,336
+Florfenicol_site5,337
+Danofloxacin_site5,338
+Desethylene ciprofloxacin_site1,339
+Streptomycin A_site5,340
+Ulifloxacin_site9,341
+Enrofloxacin_site8,342
+"1-(2-nitrobenzylidenamino)-2,4-imidazolidinedione_site8",343
+N-acetyl sulfamethoxazole _site8,344
+Besifloxacin_site8,345
+Sarafloxacin_site4,346
+Linezolid_site3,347
+Capreomycin IA_site4,348
+Sulfamethoxazole_site1,349
+Chloramphenicol_site7,350
+Nitrofurantoin_site6,351
+Capreomycin IB_site5,352
+Capreomycin IB_site1,353
+Flucloxacillin_site7,354
+N-acetyl sulfamethoxazole _site9,355
+Imipenem_site3,356
+N-acetyl sulfamethoxazole _site4,357
+Isoniazid_site3,358
+Ceftriaxone_site2,359
+Trimethoprim_site9,360
+N-acetyl sulfapyridine _site2,361
+25-desacetyl rifampicin _site2,362
+N-desmethyl clindamycin _site3,363
+Moxifloxacin_site4,364
+Kanamycin A_site9,365
+Gentamycin C1a_site8,366
+Ofloxacin (Levofloxacin)_site5,367
+Acetyl-isoniazid _site2,368
+Kanamycin A_site2,369
+Lomefloxacin_site7,370
+Ampicilloic acid_site6,371
+Besifloxacin_site5,372
+Rifabutin_site4,373
+Florfenicol_site7,374
+Ofloxacin (Levofloxacin)_site9,375
+Clindamycin_site8,376
+Thalidomide_site8,377
+Emtricitabine_site8,378
+Rifampicin_site1,379
+Aztreonam_site6,380
+Ceftiofur_site8,381
+Imipenem_site7,382
+Nalidixic acid_site2,383
+Sulfasalazine_site7,384
+N-acetyl sulfamethoxazole _site2,385
+Cefalexin_site5,386
+Ulifloxacin_site3,387
+Cefixime_site7,388
+Penicillin G_site6,389
+Imipenem_site5,390
+Oxytetracycline_site7,391
+Hydroxy-norfloxacin _site3,392
+Trimethoprim_site6,393
+Doxycycline _site3,394
+Penicilloic G acid_site3,395
+Ketoconazole_site6,396
+Erythromycin_site6,397
+N-demethyl erythromycin_site8,398
+Prulifloxacin_site8,399
+Delamanid_site3,400
+Ketoconazole_site2,401
+Gentamycin C1a_site4,402
+Gentamycin C2 C2a C2b_site6,403
+Cefixime_site3,404
+Prulifloxacin_site7,405
+Ceftriaxone_site7,406
+Isoniazid_site2,407
+Pyrazinamide_site6,408
+Desmethyl-ofloxacin _site6,409
+Ofloxacin (Levofloxacin)_site2,410
+Thalidomide_site3,411
+Desmethyl-ofloxacin _site7,412
+Kanamycin A_site5,413
+N-desmethyl azithromycin _site7,414
+Trimethoprim_site7,415
+Flumequine_site5,416
+Sarafloxacin_site7,417
+Gatifloxacin_site2,418
+Ceftriaxone_site3,419
+Aztreonam_site2,420
+Nadifloxacin_site8,421
+Delamanid_site9,422
+Moxifloxacin_site5,423
+Deacetyl-ketoconazole _site3,424
+N-acetyl sulfadiazine _site6,425
+Thalidomide_site2,426
+Prulifloxacin_site6,427
+N-desmethyl azithromycin _site5,428
+Delamanid_site7,429
+Danofloxacin_site1,430
+Ceftriaxone_site8,431
+Chloramphenicol_site9,432
+Tetracycline_site7,433
+N-desmethyl clarithromycin _site1,434
+D-cycloserine_site7,435
+Metronidazole_site4,436
+Cefixime_site5,437
+25-desacetyl rifampicin _site9,438
+Danofloxacin_site4,439
+Flumequine_site1,440
+Gentamycin C1_site5,441
+Linezolid_site5,442
+Doxycycline _site1,443
+N-desmethyl clindamycin _site4,444
+Oxytetracycline_site1,445
+Sarafloxacin_site1,446
+N-desmethyl clindamycin _site1,447
+Emtricitabine_site4,448
+Nitrofurantoin_site4,449
+Lamivudine_site5,450
+Metronidazole_site8,451
+Hydroxy-norfloxacin _site4,452
+Trimethoprim_site8,453
+Nalidixic acid_site6,454
+Gentamycin C1_site9,455
+N-demethyl erythromycin_site9,456
+Isonicotinic acid_site3,457
+Desethylene ciprofloxacin_site7,458
+Aztreonam_site5,459
+Sulfapyridine_site5,460
+Acetyl-isoniazid _site7,461
+Linezolid_site9,462
+Nalidixic acid_site7,463
+Thalidomide_site4,464
+Ciprofloxacin_site3,465
+Gentamycin C2 C2a C2b_site8,466
+D-cycloserine_site6,467
+Sarafloxacin_site8,468
+Isonicotinic acid_site7,469
+Oxytetracycline_site5,470
+Desethylene ciprofloxacin_site3,471
+N-acetyl sulfadiazine _site2,472
+Aztreonam_site7,473
+Capreomycin IB_site8,474
+N-acetyl sulfadiazine _site8,475
+D-cycloserine_site1,476
+Trimethoprim_site3,477
+Prulifloxacin_site3,478
+"1-(2-nitrobenzylidenamino)-2,4-imidazolidinedione_site9",479
+Nalidixic acid_site9,480
+Nadifloxacin_site1,481
+Cefixime_site8,482
+Capreomycin IB_site7,483
+Tetracycline_site5,484
+25-desacetyl rifampicin _site1,485
+Pyrazinamide_site3,486
+Doxycycline _site2,487
+Florfenicol_site8,488
+Azithromycin_site5,489
+N-desmethyl azithromycin _site2,490
+Imipenem_site1,491
+Oxytetracycline_site9,492
+Ofloxacin N-oxide_site1,493
+Ceftiofur_site9,494
+Capreomycin IB_site2,495
+Ampicillin_site9,496
+Deacetyl-ketoconazole _site9,497
+Kanamycin A_site8,498
+Enrofloxacin_site6,499
+Deacetyl-ketoconazole _site2,500
+Delamanid_site1,501
+Erythromycin_site1,502
+Clindamycin_site2,503
+Besifloxacin_site4,504
+Clindamycin_site3,505
+D-cycloserine_site2,506
+Pyrazinamide_site2,507
+25-desacetyl rifampicin _site8,508
+Sarafloxacin_site5,509
+Rifabutin_site7,510
+Linezolid_site7,511
+Moxifloxacin_site2,512
+Hydroxy-metronidazole _site4,513
+Ketoconazole_site8,514
+25-O-desacetyl rifabutin _site7,515
+Nadifloxacin_site9,516
+Capreomycin IA_site5,517
+Deacetyl-ketoconazole _site8,518
+Pyrazinamide_site8,519
+Moxifloxacin_site3,520
+Capreomycin IA_site3,521
+Sulfadiazine_site2,522
+Sulfadiazine_site3,523
+Metronidazole_site3,524
+D-cycloserine_site8,525
+Gentamycin C1a_site9,526
+Ciprofloxacin_site9,527
+Rifabutin_site8,528
+Lomefloxacin_site6,529
+4-hydroxy-trimethoprim _site8,530
+"1-(2-nitrobenzylidenamino)-2,4-imidazolidinedione_site5",531
+Azithromycin_site9,532
+N-desmethyl clindamycin _site7,533
+Nalidixic acid_site5,534
+N-desmethyl clindamycin _site2,535
+Metronidazole_site9,536
+Sulfadiazine_site4,537
+Sulfadiazine_site6,538
+Capreomycin IA_site2,539
+Hydroxy-metronidazole _site3,540
+Gentamycin C1_site8,541
+Cefalexin_site4,542
+Metronidazole_site2,543
+"1-(2-nitrobenzylidenamino)-2,4-imidazolidinedione_site7",544
+Ampicilloic acid_site4,545
+N-desmethyl clarithromycin _site4,546
+Cefixime_site4,547
+Ampicilloic acid_site3,548
+Clarithromycin_site3,549
+Isonicotinic acid_site5,550
+25-O-desacetyl rifabutin _site5,551
+N-desmethyl azithromycin _site6,552
+Nadifloxacin_site4,553
+Erythromycin_site2,554
+Clarithromycin_site2,555
+Clarithromycin_site5,556
+Flumequine_site8,557
+Rifampicin_site8,558
+Gentamycin C2 C2a C2b_site5,559
+Lamivudine_site3,560
+Isoniazid_site8,561
+Nalidixic acid_site1,562
+Gentamycin C1a_site2,563
+Clarithromycin_site7,564
+Ketoconazole_site5,565
+Meropenem_site4,566
+Ampicillin_site2,567
+Penicillin G_site7,568
+N-desmethyl clarithromycin _site5,569
+Gentamycin C1a_site5,570
+Clarithromycin_site1,571
+Hydroxy-metronidazole _site2,572
+Erythromycin_site8,573
+Penicillin G_site8,574
+Nadifloxacin_site2,575
+Ampicillin_site4,576
+Chloramphenicol_site1,577
+Gatifloxacin_site6,578
+Capreomycin IB_site3,579
+Nalidixic acid_site3,580
+"1-(2-nitrobenzylidenamino)-2,4-imidazolidinedione_site2",581
+Gentamycin C1a_site6,582
+Norfloxacin_site3,583
+Cefalexin_site2,584
+"1-(2-nitrobenzylidenamino)-2,4-imidazolidinedione_site6",585
+N-desmethyl clarithromycin _site7,586
+Nadifloxacin_site3,587
+Moxifloxacin_site9,588
+Besifloxacin_site1,589
+"1-(2-nitrobenzylidenamino)-2,4-imidazolidinedione_site4",590
+N-acetyl sulfapyridine _site9,591
+Azithromycin_site4,592
+Enrofloxacin_site2,593
+Sulfapyridine_site6,594
+N-acetyl sulfapyridine _site7,595
+N-desmethyl azithromycin _site8,596
+Flucloxacillin_site1,597
+Delamanid_site5,598
+Emtricitabine_site9,599
+Sulfamethoxazole_site5,600
+Tetracycline_site9,601
+Isonicotinic acid_site4,602
+Ethambutol_site7,603
+Clindamycin_site5,604
+Hydroxy-metronidazole _site9,605
+Nitrofurantoin_site1,606
+Cefalexin_site3,607
+Gatifloxacin_site8,608
+Prulifloxacin_site2,609
+4-hydroxy-trimethoprim _site7,610
+Erythromycin_site4,611
+Norfloxacin_site8,612
+Linezolid_site4,613
+Penicillin V_site8,614
+Ulifloxacin_site4,615
+Trimethoprim_site4,616
+Nitrofurantoin_site7,617
+Ofloxacin (Levofloxacin)_site7,618
+Besifloxacin_site2,619
+"2-Amino-1-(4-nitrophenyl)-1,3-propanediol_site7",620
+Gatifloxacin_site4,621
+Florfenicol_site6,622
+Penicillin V_site5,623
+"2-Amino-1-(4-nitrophenyl)-1,3-propanediol_site8",624
+Erythromycin_site3,625
+Ampicillin_site7,626
+Amoxicilloic acid_site8,627
+Ciprofloxacin_site2,628
+Erythromycin_site7,629
+"2-Amino-1-(4-nitrophenyl)-1,3-propanediol_site9",630
+Cefixime_site6,631
+Isonicotinic acid_site2,632
+Meropenem_site8,633
+Ethambutol_site8,634
+Nadifloxacin_site7,635
+N-acetyl sulfapyridine _site6,636
+Ulifloxacin_site8,637
+Ceftriaxone_site4,638
+Desmethyl-ofloxacin _site9,639
+Desethylene ciprofloxacin_site9,640
+Chloramphenicol_site3,641
+Ciprofloxacin_site8,642
+Clarithromycin_site8,643
+Capreomycin IB_site6,644
+Erythromycin_site5,645
+Sarafloxacin_site2,646
+Gatifloxacin_site7,647
+Kanamycin A_site1,648
+Penicilloic G acid_site4,649
+Besifloxacin_site3,650
+Gentamycin C1_site6,651
+Deacetyl-ketoconazole _site4,652
+Rifabutin_site1,653
+Norfloxacin_site5,654
+Aztreonam_site8,655
+Isonicotinic acid_site9,656
+Doxycycline _site7,657
+Clindamycin_site6,658
+Gatifloxacin_site3,659
+Rifabutin_site2,660
+Ethambutol_site9,661
+Flumequine_site9,662
+Streptomycin A_site6,663
+Isonicotinic acid_site6,664
+Enrofloxacin_site1,665
+N-acetyl sulfamethoxazole _site6,666
+5-Hydroxy-pyrazinoic acid _site8,667
+Meropenem_site9,668
+Amoxicilloic acid_site9,669
+Prulifloxacin_site4,670
+Rifabutin_site9,671
+Cefalexin_site6,672
+Cefalexin_site8,673
+Danofloxacin_site6,674
+Gentamycin C2 C2a C2b_site9,675
+Danofloxacin_site9,676
+Linezolid_site6,677
+Norfloxacin_site7,678
+Lomefloxacin_site3,679
+N-acetyl sulfamethoxazole _site1,680
+Penicillin V_site6,681
+Amoxicilloic acid_site6,682
+Penicilloic G acid_site5,683
+Gatifloxacin_site9,684
+Ceftiofur_site5,685
+Desmethyl-ofloxacin _site1,686
+Ketoconazole_site1,687
+Flucloxacillin_site8,688
+Pyrazinamide_site7,689
+Amoxicillin_site8,690
+Gentamycin C1_site2,691
+Cefixime_site9,692
+Sarafloxacin_site6,693
+Acetyl-isoniazid _site4,694
+Linezolid_site2,695
+Deacetyl-ketoconazole _site7,696
+N-desmethyl clarithromycin _site9,697
+Desmethyl-ofloxacin _site5,698
+Trimethoprim_site5,699
+Desethylene ciprofloxacin_site4,700
+Ampicillin_site8,701
+Meropenem_site6,702
+Penicillin G_site1,703
+Ketoconazole_site3,704
+N-desmethyl clarithromycin _site3,705
+Pyrazinamide_site4,706
+Ketoconazole_site4,707
+Emtricitabine_site6,708
+Ulifloxacin_site6,709
+Gatifloxacin_site1,710
+Moxifloxacin_site1,711
+Streptomycin A_site3,712
+Nitrofurantoin_site9,713
+25-O-desacetyl rifabutin _site6,714
+Flumequine_site7,715
+N-desmethyl clarithromycin _site8,716
+Penicillin V_site2,717
+Moxifloxacin_site6,718
+Amoxicillin_site3,719
+Pyrazinamide_site9,720
+Desethylene ciprofloxacin_site5,721
+Ampicilloic acid_site9,722
+Florfenicol_site3,723
+Desmethyl-ofloxacin _site3,724
+Rifabutin_site6,725
+Chloramphenicol_site8,726
+Tetracycline_site4,727
+Amoxicilloic acid_site5,728
+Gentamycin C1_site1,729
+"2-Amino-1-(4-nitrophenyl)-1,3-propanediol_site1",730
+Ampicilloic acid_site7,731
+Lamivudine_site1,732
+Gentamycin C1_site4,733
+Gentamycin C1a_site1,734
+Gentamycin C2 C2a C2b_site1,735
+Ceftriaxone_site1,736
+Ampicillin_site1,737
+Hydroxy-metronidazole _site1,738
+Danofloxacin_site8,739
+5-Hydroxy-pyrazinoic acid _site2,740
+5-Hydroxy-pyrazinoic acid _site4,741
+Danofloxacin_site2,742
+Gentamycin C1_site3,743
+Florfenicol_site1,744
+Meropenem_site1,745
+5-Hydroxy-pyrazinoic acid _site3,746
+Ampicilloic acid_site2,747
+Ampicilloic acid_site8,748
+Capreomycin IA_site1,749
+Ampicilloic acid_site1,750
+Meropenem_site3,751
+5-Hydroxy-pyrazinoic acid _site1,752
+Meropenem_site7,753
+"2-Amino-1-(4-nitrophenyl)-1,3-propanediol_site5",754
+Cefixime_site1,755
+"2-Amino-1-(4-nitrophenyl)-1,3-propanediol_site6",756
+5-Hydroxy-pyrazinoic acid _site5,757
+"2-Amino-1-(4-nitrophenyl)-1,3-propanediol_site2",758
+5-Hydroxy-pyrazinoic acid _site6,759
+N-acetyl sulfadiazine _site1,760
+Amoxicillin_site1,761
+Amoxicilloic acid_site1,762
+"2-Amino-1-(4-nitrophenyl)-1,3-propanediol_site3",763
+Ampicilloic acid_site5,764
+Bedaquiline_site8,765
+Cefalexin_site1,766
+"2-Amino-1-(4-nitrophenyl)-1,3-propanediol_site4",767
+N-acetyl sulfadiazine _site4,768
+N-acetyl sulfadiazine _site5,769
+N-acetyl sulfadiazine _site7,770
+N-acetyl sulfadiazine _site9,771
+N-acetyl sulfapyridine _site1,772
+Penicillin G_site9,773
+Penicilloic G acid_site1,774
+Penicilloic G acid_site7,775
+Penicilloic G acid_site8,776
+Penicilloic G acid_site9,777
+Pyrazinamide_site1,778
+Streptomycin A_site1,779
+Sulfadiazine_site1,780
+Tetracycline_site1,781
+Thalidomide_site1,782
+Ulifloxacin_site2,783
